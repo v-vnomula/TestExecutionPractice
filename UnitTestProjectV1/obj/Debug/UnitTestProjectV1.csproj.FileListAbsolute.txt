@@ -1,0 +1,24 @@
+C:\New folder\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\New folder\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\New folder\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\New folder\UnitTestProjectV1\bin\Debug\UnitTestProjectV1.dll
+C:\New folder\UnitTestProjectV1\bin\Debug\UnitTestProjectV1.pdb
+C:\New folder\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\New folder\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.csprojAssemblyReference.cache
+C:\New folder\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.csproj.CoreCompileInputs.cache
+C:\New folder\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.csproj.CopyComplete
+C:\New folder\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.dll
+C:\New folder\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.pdb
+C:\New folder\UnitTestProjectV1\bin\Debug\TestData\TestData.csv
+C:\TestExecution\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TestExecution\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TestExecution\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TestExecution\UnitTestProjectV1\bin\Debug\TestData.csv
+C:\TestExecution\UnitTestProjectV1\bin\Debug\TestData\TestData.csv
+C:\TestExecution\UnitTestProjectV1\bin\Debug\UnitTestProjectV1.dll
+C:\TestExecution\UnitTestProjectV1\bin\Debug\UnitTestProjectV1.pdb
+C:\TestExecution\UnitTestProjectV1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\TestExecution\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.csproj.CoreCompileInputs.cache
+C:\TestExecution\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.csproj.CopyComplete
+C:\TestExecution\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.dll
+C:\TestExecution\UnitTestProjectV1\obj\Debug\UnitTestProjectV1.pdb
